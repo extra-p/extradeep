@@ -1,0 +1,5 @@
+__title__ = "Extra-Deep"
+__version__ = "1.0.0"
+__description__ = "Extra-Deep, automated performance modeling for deep learning applications"
+__copyright__ = "Copyright (c) 2022 Technical University of Darmstadt, Darmstadt, Germany"
+__documentation_link__ = f""
